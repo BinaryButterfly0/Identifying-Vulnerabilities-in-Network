@@ -45,6 +45,7 @@ MAC Address: 00:50:56:EB:61:3A (VMware)
 Nmap scan report for 192.168.154.128
 Host is up
 
+```
 
 Observation: 4 live hosts were found in the subnet.
 
@@ -66,6 +67,6 @@ Observation:
 
 The target host 192.168.154.1 has SSH, HTTP, and HTTPS services open.
 
-These are potential points of entry for further testing.``` 
+These are potential points of entry for further testing.
 
-By completing this exercise, I was able to identify live hosts on the subnet and detect open ports/services on the target machine. This step is fundamental in network security assessment as it reveals potential vulnerabilities and entry points for attackers, helping to prioritize further security testing.
+## By completing this exercise, I was able to identify live hosts on the subnet and detect open ports/services on the target machine. This step is fundamental in network security assessment as it reveals potential vulnerabilities and entry points for attackers, helping to prioritize further security testing.
