@@ -1,4 +1,4 @@
-# Basic Network Security Assessment: Identifying Vulnerabilities in Network Configurations
+Identifying Vulnerabilities in Network
 
 ## Lab Setup
 
