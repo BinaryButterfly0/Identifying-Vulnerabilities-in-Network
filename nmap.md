@@ -9,6 +9,8 @@
 **Network Configuration**:
 - Both VMs are connected on the same isolated network in VMware.
 - IP addresses observed:
+snap -> ![nmap san](ip-check.png)
+
   - Kali Linux (Attacker): `192.168.154.129`
   - Ubuntu (Target): `192.168.154.1`
   - Other hosts on the network:
@@ -25,9 +27,6 @@
 Command:
 ```bash
 nmap -sn 192.168.154.0/24
-
-
-snap -> ![nmap san](ip-check.png)
 
 
 Nmap scan report for 192.168.154.1
